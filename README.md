@@ -1,7 +1,7 @@
 # Balloons
 Requirements
 ------------
-The game requires to be installed in a single folder and depends on: os, pygame, math, time, random, numpy, scipy, itertools & collections. This includes the "game_data" folder, the name of the profile inside this folder can be changed to your own name if you also change the string in the profile.txt file.
+The game components need to remain together in a single folder and depends on: os, pygame, math, time, random, numpy, scipy, itertools & collections. This includes the "game_data" folder, the name of the profile inside this folder can be changed to your own name if you also change the string in the profile.txt file.
 
 The console or command window is used to print information and ask for confirmation on irreversible actions, other than that the game takes place in a 750 by 800 window.
 
