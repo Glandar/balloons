@@ -1,0 +1,1 @@
+0, True, True, True, False, 150, 0, 2, [False, True, True, False], 60
