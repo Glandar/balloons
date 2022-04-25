@@ -15,3 +15,7 @@ The game comes with 36 levels (and a level creator), the first 9 of which are in
 Bugs
 ----
 There is a bug that occurs when approaching a platform at a certain angle which causes inaccurate physics but does not interfere with the gameplay. Other than that I am not aware of any bugs, however the testing has not been rigorous.
+
+Demo
+----
+https://user-images.githubusercontent.com/104028735/165173530-7de5f92d-4649-45ff-aec5-539b05dfc9b8.mp4
