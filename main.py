@@ -10,7 +10,7 @@ if __name__ == '__main__':
     settings = Settings()
     environ["SDL_VIDEO_WINDOW_POS"] = settings.window_loc # environ['SDL_VIDEO_CENTERED'] = '1'
     pygame.display.init()
-    pygame.display.set_caption("Avoid the bugs (Balloons)")
+    pygame.display.set_caption("Balloons")
     pygame.display.set_icon(pygame.image.load("game_data/icon.png"))
     screen = pygame.display.set_mode([750, 750]) if settings.frame else pygame.display.set_mode([750, 750], pygame.NOFRAME)
     clock = pygame.time.Clock()
